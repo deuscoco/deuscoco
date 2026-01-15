@@ -18,8 +18,18 @@ Here are some ideas to get you started:
 # 👋 Hi there, I'm DEUSCOCO
 
 <p align="center">
-  <img src="assets/banners.jpeg" alt="Data Analyst Banner" width="400"/>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="assets/banners.jpeg" alt="Project 1" width="250"/>
+      </td>
+      <td align="center">
+        <img src="assets/banners2.jpeg" alt="Project 2" width="250"/>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 ---
