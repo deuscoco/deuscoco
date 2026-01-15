@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm DEUSCOCO👋
 
 <!--
 **deuscoco/deuscoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi there, I'm DEUSCOCO
+
+<p align="center">
+  <img src="assets/banners.jpeg" alt="Data Analyst Banner" width="600"/>
+</p>
+
+---
+
+## 👋 Hi, I'm a Junior Analyst
+
+Saya adalah **Junior Analyst** yang sedang mengembangkan kemampuan di bidang **analisis data, pengolahan database, dan pemrograman**.  
+Repository ini saya gunakan sebagai **portofolio** untuk mendokumentasikan proyek, latihan, dan eksperimen selama proses belajar dan pengembangan skill.
+
+---
+
+## 🔍 Fokus Pembelajaran
+- 📊 Analisis dan pengolahan data  
+- 🗄️ Database & query data  
+- 💻 Pemrograman untuk kebutuhan analisis  
+
+---
+
+## 📁 Tentang Repository
+Repository ini berisi:
+- Proyek pembelajaran dan studi kasus  
+- Latihan analisis data  
+- Eksperimen dan dokumentasi proses belajar  
+
+---
+
+## 🚀 Tujuan
+Membangun portofolio yang **rapi, konsisten, dan profesional** sebagai bekal karier di bidang **Data & Analytics**.
