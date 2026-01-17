@@ -1,4 +1,4 @@
-## Hi there I'm DEUSCOCO👋
+## Hi there I'm Amadeus👋
 
 <!--
 **deuscoco/deuscoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm DEUSCOCO
+# 👋 Hi there, I'm Amadeus
 
 
 
