@@ -73,3 +73,11 @@ Membangun portofolio yang **rapi, konsisten, dan profesional** sebagai bekal kar
 ## 📊 GitHub Stats
 
 [![Amadeus Daniel Adisaputra GitHub Stats](https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/deuscoco)
+
+## 📅 Learning Roadmap – Junior Data Analyst
+
+| Week | Focus Area | Description | Repository |
+|------|-----------|-------------|------------|
+| Week 1 | Junior Data Analyst Project | Dasar workflow data analyst dan mini project | [View Repo](https://github.com/deuscoco/junior-data-analyst) |
+| Week 2 | Data Collection & Understanding | Pengumpulan & pemahaman data | [View Repo](https://github.com/deuscoco/data-collection-understanding) |
+
