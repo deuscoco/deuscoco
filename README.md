@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👋 Hi, I'm a Junior Analyst
+## 👋 Hi, I'm a Junior Data Analyst
 
 Saya adalah **Junior Analyst** yang sedang mengembangkan kemampuan di bidang **analisis data, pengolahan database, dan pemrograman**.  
 Repository ini saya gunakan sebagai **portofolio** untuk mendokumentasikan proyek, latihan, dan eksperimen selama proses belajar dan pengembangan skill.
@@ -69,5 +69,11 @@ Membangun portofolio yang **rapi, konsisten, dan profesional** sebagai bekal kar
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## Contact Me
+<p align="left">
+![https://www.instagram.com/amaadeusdaniel?igsh=eW9tcWkyeGhmNDRs](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.tiktok.com/@traarizz?_r=1&_t=ZS-93C1H1HzsMK] (https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 </p>
 
