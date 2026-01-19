@@ -71,9 +71,15 @@ Membangun portofolio yang **rapi, konsisten, dan profesional** sebagai bekal kar
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-## Contact Me
+## 📫 Contact Me
+
 <p align="left">
-![https://www.instagram.com/amaadeusdaniel?igsh=eW9tcWkyeGhmNDRs](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.tiktok.com/@traarizz?_r=1&_t=ZS-93C1H1HzsMK] (https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+  <a href="https://www.instagram.com/amaadeusdaniel?igsh=eW9tcWkyeGhmNDRs" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@traarizz?_r=1&_t=ZS-93C1H1HzsMK" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 </p>
+
 
