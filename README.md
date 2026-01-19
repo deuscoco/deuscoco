@@ -82,4 +82,5 @@ Membangun portofolio yang **rapi, konsisten, dan profesional** sebagai bekal kar
   </a>
 </p>
 
+[![Amadeus Daniel Adisaputra GitHub Stats]https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&count_private=true&theme=tokyonight
 
