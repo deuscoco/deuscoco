@@ -1,298 +1,496 @@
-Anda benar! Saya akan perbaiki bagian yang bermasalah dan berikan versi yang benar-benar siap pakai:
+# 🇮🇩 README PROFILE - AMADEUS DANIEL
 
-# 🚀 README PROFILE - AMADEUS DANIEL
+## 🎨 **TEMA: ELEGAN TRADISIONAL INDONESIA DENGAN SENTUHAN MODERN**
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f0ff&height=250&section=header&text=AMADEUS%20DANIEL&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Data%20Alchemist%20%7C%20Turning%20Chaos%20into%20Clarity&descAlignY=58&descSize=22&fontColor=ffffff" width="100%" />
 
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=33E1FF&center=true&vCenter=true&width=1100&height=80&lines=%24+./init_data_analyst.sh;%3E+SYSTEM_STATUS%3A_ONLINE;%3E+LOADING_DATA_PIPELINE...;%3E+ANALYZING_DATASETS...;%3E+READY_FOR_DEPLOYMENT" alt="Terminal Typing" />
+<!-- Header dengan gradasi cream dan motif batik -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=f5e8c7,e6d2a8&height=220&section=header&text=AMADEUS%20DANIEL&fontSize=52&fontColor=8B4513&animation=fadeIn&fontAlignY=40&desc=Analis%20Data%20%7C%20Bangga%20Produk%20Indonesia&descAlignY=65&descSize=22&descColor=795548" width="100%" />
 
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20LEARNING-brightgreen?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117"/>
-    <img src="https://img.shields.io/badge/LOCATION-INDONESIA-FF6B6B?style=for-the-badge&logo=location-dot&logoColor=white&labelColor=0d1117"/>
-    <img src="https://img.shields.io/badge/SPECIALTY-SQL_%26_PYTHON-33E1FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
-    <img src="https://img.shields.io/badge/MODE-DATA_STORYTELLER-orange?style=for-the-badge&logo=storybook&logoColor=white&labelColor=0d1117"/>
-  </p>
+<!-- Typing dengan font yang lebih tradisional -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=4000&pause=2000&color=8B4513&background=F5E8C700&center=true&vCenter=true&width=1000&height=80&lines=Mengolah+Data+dengan+Nilai+Keindonesiaan;Merajut+Insight+seperti+Membatik;Analisis+yang+Menghormati+Kontekstualitas;Teknologi+Global%2C+Nilai+Lokal" alt="Typing SVG" />
+
+<!-- Badges dengan ikon tradisional Indonesia -->
+<div>
+  <img src="https://img.shields.io/badge/🪶-Analis_Data_Indonesia-8B4513?style=for-the-badge&logoColor=white&labelColor=F5E8C7"/>
+  <img src="https://img.shields.io/badge/🎯-Python_SQL_Jawa-795548?style=for-the-badge&logo=python&logoColor=white&labelColor=F5E8C7"/>
+  <img src="https://img.shields.io/badge/📜-Visualisasi_Ala_Nusantara-D4A017?style=for-the-badge&logo=tableau&logoColor=white&labelColor=F5E8C7"/>
+  <img src="https://img.shields.io/badge/🌺-Pembelajar_Berkebudayaan-228B22?style=for-the-badge&logo=github&logoColor=white&labelColor=F5E8C7"/>
+</div>
+
 </div>
 
 ---
 
-## 🌟 ABOUT ME: THE DATA STORYTELLER
+## 🏮 **PROFIL: ANALIS DATA BERWAWASAN KEBUDAYAAN**
 
-**Name:** Amadeus Daniel Adisaputra  
-**Role:** Data Alchemist  
-**Location:** Indonesia  
-**Mission:** Transform raw data into compelling narratives  
-**Status:** 🟢 Currently exploring patterns in the chaos  
+### **🪶 Lembaran Identitas**
+> ***"Seperti seorang empu yang menempa keris, saya menempa data menjadi insight yang tajam dan bermakna."***
 
-| Skill | Level | Rating |
-|-------|-------|--------|
-| **Data Wrangling** | Expert | ★★★★★ |
-| **Insight Generation** | Advanced | ★★★★☆ |
-| **Visual Storytelling** | Advanced | ★★★★☆ |
-| **SQL Mastery** | Expert | ★★★★★ |
-| **Python Analytics** | Intermediate | ★★★☆☆ |
+<table>
+<tr>
+<td width="50%">
 
-> "Every dataset tells a story. My job is to translate it."
-
-**Contact:**  
-📧 GitHub: [deuscoco](https://github.com/deuscoco)  
-📱 Instagram: [@amaadeusdaniel](https://instagram.com/amaadeusdaniel)  
-🎵 TikTok: [@traarizz](https://tiktok.com/@traarizz)
-
----
-
-## 🎯 REAL-TIME PROJECT DASHBOARD
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>📈 Active Project</h3>
-        <p><b>Data Collection Pipeline</b></p>
-        <img src="https://progress-bar.dev/75/?width=300&title=Progress" alt="75% Complete"/>
-        <p><a href="https://github.com/deuscoco/data-collection-understanding">🔗 View Repository</a></p>
-      </td>
-      <td width="50%">
-        <h3>🧹 Next in Queue</h3>
-        <p><b>Data Cleaning Automation</b></p>
-        <img src="https://progress-bar.dev/30/?width=300&title=Progress&color=ff6b6b" alt="30% Complete"/>
-        <p>🔒 Locked - Starting Soon</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🗺️ LEARNING ROADMAP – JUNIOR DATA ANALYST
-
-| Week | Focus Area | Status | Repository |
-|------|------------|--------|------------|
-| **Week 1** | Orientasi Industri & Setup Tools | ✅ Completed | 🔗 [View Repo](https://github.com/deuscoco/week-1-junior-data-analyst) |
-| **Week 2** | Data Collection & Understanding | 🟡 In Progress | 🔗 [View Repo](https://github.com/deuscoco/data-collection-understanding) |
-| **Week 3** | Data Cleaning & Preparation | ⏳ Planned | Coming Soon |
-| **Week 4** | Exploratory Data Analysis | ⏳ Planned | Coming Soon |
-| **Week 5** | SQL for Analytics | ⏳ Planned | Coming Soon |
-| **Week 6** | Data Visualization | ⏳ Planned | Coming Soon |
-| **Week 7** | Mini Project | ⏳ Planned | Coming Soon |
-| **Week 8** | Final Project & Reporting | ⏳ Planned | Coming Soon |
-
----
-
-## 🛠️ TECH STACK BREAKDOWN
-
-### **📊 Data Analysis & Visualization**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### **🗄️ Database & Query Languages**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### **⚙️ Development Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&include_all_commits=true&count_private=true" width="100%"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=deuscoco&theme=react&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&currStreakLabel=00F0FF" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deuscoco&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 WEEKLY ACTIVITY HEATMAP
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deuscoco&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Weekly%20Coding%20Activity" width="90%"/>
-</p>
-
----
-
-## 📚 WEEKLY PROGRESS DETAILS
-
-<details>
-<summary><b>📖 Click to expand weekly progress details</b></summary>
-
-### **✅ Week 1: Orientation & Setup**
-- ✅ Git & GitHub configuration
-- ✅ Development environment setup
-- ✅ Understanding data analyst role
-- ✅ Project management tools
-
-### **🟡 Week 2: Data Collection (Current)**
-- 🟡 Understanding data sources
-- 🟡 API data collection techniques
-- 🟡 Web scraping fundamentals
-- ⏳ Data ingestion pipelines
-
-### **⏳ Week 3: Data Cleaning**
-- ⏳ Handling missing values
-- ⏳ Outlier detection & treatment
-- ⏳ Data normalization
-- ⏳ Quality assessment
-
-### **⏳ Week 4: Exploratory Analysis**
-- ⏳ Statistical summaries
-- ⏳ Pattern discovery
-- ⏳ Correlation analysis
-- ⏳ Hypothesis testing
-
-### **⏳ Week 5: SQL Analytics**
-- ⏳ Advanced SQL queries
-- ⏳ Window functions
-- ⏳ Query optimization
-- ⏳ Database design
-
-### **⏳ Week 6: Visualization**
-- ⏳ Chart selection principles
-- ⏳ Dashboard design
-- ⏳ Storytelling with data
-- ⏳ Interactive visualizations
-
-### **⏳ Week 7: Mini Project**
-- ⏳ End-to-end data project
-- ⏳ Real-world dataset
-- ⏳ Full analysis workflow
-- ⏳ Presentation skills
-
-### **⏳ Week 8: Final Project**
-- ⏳ Portfolio project
-- ⏳ Industry case study
-- ⏳ Final presentation
-- ⏳ Documentation
-</details>
-
----
-
-## 🎨 DATA WORKFLOW
-
+**🎭 Identitas Diri**
 ```
-╔═══════════════════════════════════════════╗
-║         DATA ANALYSIS WORKFLOW            ║
-╠═══════════════════════════════════════════╣
-║ 1. 📥 COLLECT → Raw Data Ingestion        ║
-║ 2. 🧹 CLEAN → Handle Missing Values       ║
-║ 3. 🔍 EXPLORE → Discover Patterns         ║
-║ 4. 📊 VISUALIZE → Create Insights         ║
-║ 5. 📢 COMMUNICATE → Tell the Story        ║
-╚═══════════════════════════════════════════╝
+Nama    : Amadeus Daniel Adisaputra
+Gelar   : Junior Data Analyst  
+Asal    : Tanah Air Indonesia
+Falsafah: "Data untuk kemaslahatan"
+Status  : 🌱 Berkembang seperti padi
+```
+
+</td>
+<td width="50%">
+
+**🎨 Simbolisasi Nilai**
+```
+🪶 Ketelitian   : Seperti ukiran kayu
+🤝 Gotong Royong: Kolaborasi tim data  
+🎭 Kreativitas  : Warna-warni Nusantara
+🌾 Kebermanfaatan: Hasil untuk banyak orang
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎭 **POLA KOMPETENSI SEPERTI BATIK**
+
+### **📊 Peta Kemampuan Berlapis**
+> ***Setiap pola memiliki makna, setiap skill memiliki konteks penerapan***
+
+| **Bidang Keahlian** | **Tingkat Penguasaan** | **Ikon Tradisional** | **Deskripsi** |
+|-------------------|------------------------|---------------------|---------------|
+| **Bahasa Pemrograman** | | **🪕** *Alat Musik Tradisional* | |
+| Python | ★★★★☆ (80%) | 🐍 | *Fleksibel seperti bambu* |
+| SQL | ★★★★★ (95%) | 🗄️ | *Kuat seperti candi* |
+| R | ★★☆☆☆ (40%) | 📈 | *Sedang dipelajari* |
+| **Analisis Data** | | **📜** *Naskah Kuno* | |
+| Pembersihan Data | ★★★★☆ (85%) | 🧹 | *Rapi seperti ukiran* |
+| Eksplorasi Data | ★★★☆☆ (70%) | 🔍 | *Teliti seperti pengrajin* |
+| Statistik Dasar | ★★★☆☆ (65%) | 📊 | *Presisi seperti timbangan tradisional* |
+| **Visualisasi** | | **🎨** *Lukisan Kaca* | |
+| Tableau | ★★★★☆ (80%) | 📊 | *Cantik seperti batik* |
+| Power BI | ★★★☆☆ (65%) | 📈 | *Praktis seperti anyaman* |
+| Matplotlib | ★★★☆☆ (60%) | 🐍 | *Customizable seperti wayang* |
+| **Alat Bantu** | | **🛠️** *Perkakas Tradisional* | |
+| Git | ★★★★☆ (85%) | 🌳 | *Sejarah seperti prasasti* |
+| VS Code | ★★★★☆ (80%) | ✍️ | *Pena modern* |
+| Jupyter | ★★★★★ (90%) | 📓 | *Buku catatan digital* |
+
+### **📈 Visualisasi Kemampuan (Bentuk Gunungan Wayang)**
+```
+       SQL Mastery
+         ██████████ 95%
+        /           \
+Python Analytics    Data Cleaning  
+   ████████░░ 80%    ████████░░ 85%
+  /                   \
+Visualization        Business Insight  
+ ██████░░░░ 75%       ██████░░░░ 65%
 ```
 
 ---
 
-## 🏆 ACHIEVEMENTS & BADGES
+## 🗂️ **PROYEK: CERITA DARI DATA LOKAL**
+
+### **🎯 Proyek Aktif dengan Sentuhan Indonesia**
+<table>
+<tr>
+<td width="50%">
+
+#### **📦 Proyek: Pengumpulan Data UMKM Digital**
+`Status: Sedang Berjalan`  
+`Progress: ████████░░ 80%`  
+*Mengumpulkan data UMKM Indonesia untuk analisis pertumbuhan digital*  
+
+🔗 [Lihat Repository](https://github.com/deuscoco/data-collection-understanding)
+
+> **🪶 Filosofi Proyek:** *"Seperti mengumpulkan rempah-rempah dari berbagai pulau, data dikumpulkan dari berbagai sumber untuk menciptakan insight yang kaya rasa."*
+
+**Fitur Khas Indonesia:**
+- Data multi-bahasa (Indonesia + daerah)
+- Konteks budaya lokal
+- Metrik relevan untuk ekonomi Indonesia
+
+</td>
+<td width="50%">
+
+#### **🧼 Proyek: Pembersihan Data Demografi**
+`Status: Persiapan`  
+`Progress: ██░░░░░░░░ 20%`  
+*Toolkit pembersihan data khusus karakteristik Indonesia*  
+
+⏳ *Repository segera hadir*
+
+> **🎭 Pendekatan Kultural:** *"Membersihkan data seperti menyaring tepung untuk membuat kue tradisional - hati-hati, teliti, dan menghormati bahan baku."*
+
+**Inovasi Lokal:**
+- Handling nama-nama khas Indonesia
+- Penanganan format tanggal variatif
+- Adaptasi untuk data semi-terstruktur khas lokal
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📅 **PERJALANAN BELAJAR 8 MINGGU: DARI MUDA HINGGA MAHIR**
+
+### **🗺️ Peta Perjalanan Pembelajaran**
+> ***"Seperti seorang calon empu yang menjalani tahapan pembelajaran, dari magang hingga mahir."***
+
+| Minggu | Fokus Pembelajaran | Status | Repository | Filosofi Jawa |
+|--------|-------------------|--------|------------|---------------|
+| **Minggu 1** | **Orientasi & Persiapan Alat** | ✅ Selesai | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) | *"Mangan ora mangan sing penting kumpul"* - Berkumpul dengan komunitas data |
+| **Minggu 2** | **Pengumpulan Data** | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/deuscoco/data-collection-understanding) | *"Nglumpukke kaya wohing wiji"* - Mengumpulkan seperti memanen hasil |
+| **Minggu 3** | **Pembersihan & Penyaringan** | ⏳ Rencana | 🔗 Coming Soon | *"Resik saka ngisor"* - Bersih dari dasar |
+| **Minggu 4** | **Eksplorasi & Penemuan Pola** | ⏳ Rencana | 🔗 Coming Soon | *"Mlaku-mlaku neng alas"* - Berjalan-jalan di hutan data |
+| **Minggu 5** | **Analisis Mendalam dengan SQL** | ⏳ Rencana | 🔗 Coming Soon | *"Nggoleki intine"* - Mencari inti sari |
+| **Minggu 6** | **Visualisasi & Bercerita** | ⏳ Rencana | 🔗 Coming Soon | *"Nyritakake kanthi gambar"* - Bercerita dengan gambar |
+| **Minggu 7** | **Proyek Terintegrasi** | ⏳ Rencana | 🔗 Coming Soon | *"Gawe karya sak piece"* - Membuat karya utuh |
+| **Minggu 8** | **Presentasi & Portofolio** | ⏳ Rencana | 🔗 Coming Soon | *"Nampilake ing pasar"* - Menampilkan di pasar |
+
+### **📊 Progress dalam Bentuk Candi**
+```
+          Minggu 8
+           [░░░░]
+          /      \
+      Minggu 7   Minggu 6
+      [░░░░]     [░░░░]
+      /    \     /    \
+  Minggu 5   Minggu 4   Minggu 3
+  [░░░░]     [░░░░]     [██░░]
+  /    \     /    \
+Minggu 1   Minggu 2
+[██████]   [████░░]
+```
+
+---
+
+## 🖼️ **GALERI VISUAL: DATA DALAM SENI INDONESIA**
+
+### **🎭 Visualisasi dari Assets Repository**
+> ***"Data yang divisualisasikan dengan indah seperti batik - setiap pola memiliki cerita."***
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Data_Storyteller-Expert-00f0ff?style=flat-square&logo=storybook"/>
-  <img src="https://img.shields.io/badge/SQL_Ninja-Pro-FF6B6B?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Python_Analyst-Intermediate-3776AB?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Visualization_Artist-Creator-FFD700?style=flat-square&logo=tableau"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=deuscoco&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+**📊 Pola Alur Kerja Analisis**  
+![Data Workflow](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/banner1.jpg)  
+*"Seperti alur sungai di Nusantara, data mengalir dari sumber hingga insight"*
+
+**🎨 Motif Terinspirasi:** Aliran sungai tradisional dalam relief candi
+
+</td>
+<td align="center" width="50%">
+
+**📈 Dashboard dengan Sentuhan Lokal**  
+![Dashboard Example](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/banner2.jpg)  
+*"Dashboard seperti peta kuno - menunjukkan jalan menuju harta karun insight"*
+
+**🎨 Motif Terinspirasi:** Peta kuno Nusantara dan kompas tradisional
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 📊 DATA FACTS CORNER
+## 🛠️ **PERKAKAS DIGITAL: ALAT MODERN, NILAI TRADISI**
 
+### **🔧 Perangkat Utama dengan Filosofi Lokal**
+> ***"Memilih alat seperti memilih bahan baku kerajinan - harus tepat guna dan bermakna."***
+
+<table>
+<tr>
+<td width="33%">
+
+#### **🐍 Python**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=F5E8C7"/>
+
+**Filosofi:** *"Fleksibel seperti rotan, kuat seperti bambu"*  
+**Analog Tradisional:** Pisau serbaguna tradisional  
+**Kelebihan:** Multi-guna, komunitas kuat, seperti gotong royong digital
+
+</td>
+<td width="33%">
+
+#### **🗄️ MySQL**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F5E8C7"/>
+
+**Filosofi:** *"Terstruktur seperti candi, terorganisir seperti lumbung"*  
+**Analog Tradisional:** Sistem lumbung padi tradisional  
+**Kelebihan:** Reliabel, terstruktur, seperti arsitektur tradisional
+
+</td>
+<td width="33%">
+
+#### **🌳 Git**
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F5E8C7"/>
+
+**Filosofi:** *"Mencatat sejarah seperti prasasti"*  
+**Analog Tradisional:** Prasasti dan naskah kuno  
+**Kelebihan:** Version control, kolaborasi, seperti kerja tim tradisional
+
+</td>
+</tr>
+</table>
+
+### **🎨 Alat Visualisasi dengan Estetika Nusantara**
+<table>
+<tr>
+<td width="50%">
+
+#### **📊 Tableau**
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=F5E8C7"/>
+
+**Inspirasi Estetika:** Motif batik dan tenun  
+**Penerapan:** Dashboard dengan palet warna alam Indonesia  
+**Kelebihan:** Interaktif seperti wayang kulit digital
+
+</td>
+<td width="50%">
+
+#### **📈 Power BI**
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F5E8C7"/>
+
+**Inspirasi Estetika:** Ukiran kayu dan logam  
+**Penerapan:** Laporan bisnis dengan struktur jelas  
+**Kelebihan:** Integrasi kuat, seperti sistem irigasi subak
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 **PAMOR DIGITAL: STATISTIK & PRESTASI**
+
+### **📊 Jejak Digital di GitHub**
+> ***"Seperti jejak kaki di pasir pantai, setiap commit adalah langkah dalam perjalanan belajar."***
+
+<div align="center">
+
+<!-- GitHub Stats dengan tema cream dan coklat -->
+<a href="https://github.com/deuscoco">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&theme=default&bg_color=F5E8C7&title_color=8B4513&icon_color=795548&text_color=5D4037&hide_border=true&border_radius=15&include_all_commits=true" />
+</a>
+<a href="https://github.com/deuscoco">
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deuscoco&layout=compact&theme=default&bg_color=F5E8C7&title_color=8B4513&text_color=5D4037&hide_border=true&border_radius=15&langs_count=8" />
+</a>
+
+</div>
+
+### **📅 Ritme Aktivitas Mingguan**
+> ***"Seperti irama gamelan, konsistensi dalam berkarya."***
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deuscoco&theme=github-light&bg_color=F5E8C7&color=795548&line=8B4513&point=D4A017&area=true&hide_border=true&custom_title=ꦫꦶꦠꦩꦺꦴꦤ꧀ꦏꦺꦴꦣꦶꦁꦏꦸꦮꦶꦤ꧀ꦠꦸꦏ꧀" width="100%"/>
+
+---
+
+## 🏆 **GELAR & PENGHARGAAN DIGITAL**
+
+### **🎖️ Lencana Keahlian Berbudaya**
+<div align="center" style="background: linear-gradient(to right, #F5E8C7, #E6D2A8); padding: 15px; border-radius: 10px; border: 2px solid #8B4513;">
+
+**🪶 Lencana Keahlian Utama**
+```
+┌─────────────────────────────────────────────┐
+│  🔍 PENGHAYAT DATA (Data Detective)        │
+│  ★★★★★                                     │
+│  Mampu menemukan pola dalam kekacauan data │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│  🎨 PELUKIS INSIGHT (Visual Storyteller)   │
+│  ★★★★☆                                     │
+│  Mengubah angka menjadi cerita visual       │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│  🤝 GOTONG ROYONG DIGITAL (Collaborator)   │
+│  ★★★★★                                     │
+│  Kolaborasi dalam tim data                  │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+### **🏅 Trofi Pencapaian GitHub**
+<div align="center">
+![](https://github-profile-trophy.vercel.app/?username=deuscoco&theme=flat&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&bg_color=F5E8C7&title_color=8B4513&text_color=795548&no-bg=true)
+</div>
+
+---
+
+## 💭 **WARUNG DATA: TEMPAT BERBAGI INSIGHT**
+
+### **🪶 Pepatah Data Nusantara**
+> ***"Data tanpa konteks bagai keris tanpa pamor, hanya besi biasa. Insight tanpa aksi bagai peta tanpa perjalanan, hanya gambar di kertas."***
+
+### **📜 Gulungan Kebijaksanaan Data**
 <details>
-<summary><b>📈 Click for interesting data facts</b></summary>
+<summary>🔄 Buka gulungan kebijaksanaan data</summary>
 
-### **Did You Know?** 📊
+#### **Kearifan Data Lokal**
+1. **Data di Indonesia unik** seperti biodiversitas kita - beragam, kompleks, dan penuh kejutan
+2. **Analisis kontekstual** lebih penting daripada teknik canggih - pahami dulu budayanya
+3. **Visualisasi untuk orang Indonesia** harus mempertimbangkan preferensi warna dan pola lokal
+4. **Kolaborasi ala gotong royong** menghasilkan insight yang lebih kaya daripada kerja solo
 
-1. **90%** of the world's data was created in the last 2 years!
-2. Data scientists spend **80%** of their time cleaning data.
-3. **SQL** is used by 70% of data professionals daily.
-4. Good data visualization can reduce meeting time by **24%**.
-5. The global data sphere will grow to **175 zettabytes** by 2025.
-6. Companies using data analytics are **5%** more productive.
-7. **Python** is the most popular language for data science.
-8. **Tableau** users create over 1 million visualizations daily.
+#### **Fakta Data dengan Rasa Indonesia**
+- **Data demografi** Indonesia seperti rendang - kompleks, berlapis, dan penuh rempah
+- **Analisis tren** seperti prediksi cuaca tradisional - membaca tanda-tanda alam data
+- **Machine learning** seperti pembuatan tempe - butuh proses dan kesabaran
+- **Data cleaning** seperti mencuci beras - menghilangkan kotoran, mempertahankan nutrisi
+
+#### **Analog Tradisional untuk Konsep Modern**
+- **Database** = Lumbung padi digital
+- **API** = Jalan perdagangan rempah modern
+- **Cloud Computing** = Awan yang menyimpan harta karun data
+- **Dashboard** = Peta harta karun insight
 </details>
 
 ---
 
-## 📬 CONNECT WITH ME
+## 🌐 **JARINGAN SILATURAHMI DIGITAL**
 
-<div align="center">
-  <a href="https://www.instagram.com/amaadeusdaniel">
-    <img src="https://img.shields.io/badge/Instagram-@amaadeusdaniel-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+### **🤝 Menjalin Hubungan di Dunia Data**
+> ***"Seperti pertemuan di pasar tradisional, mari bertukar cerita dan insight."***
+
+<div align="center" style="background: linear-gradient(135deg, #F5E8C7, #E6D2A8); padding: 20px; border-radius: 15px; border: 3px double #8B4513;">
+
+**🎭 Gerbang Koneksi Digital**
+```
+        [📱 Instagram]
+           /      \
+   [💻 GitHub]  [📚 Medium]
+         \          /
+        [🎵 TikTok]
+```
+
+<table>
+<tr>
+<td align="center">
+
+[![Instagram](https://img.shields.io/badge/📷_Instagram-@amaadeusdaniel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://instagram.com/amaadeusdaniel)
+
+*Cerita visual sehari-hari*
+
+</td>
+<td align="center">
+
+[![TikTok](https://img.shields.io/badge/🎵_TikTok-@traarizz-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://tiktok.com/@traarizz)
+
+*Edukasi data singkat*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[![Medium](https://img.shields.io/badge/✍️_Medium-Cerita_Data-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://medium.com/@amadeusrizz)
+
+*Artikel mendalam*
+
+</td>
+<td align="center">
+
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Proyek_Data-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://github.com/deuscoco)
+
+*Kode dan proyek*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### **📚 Perpustakaan Digital Pribadi**
+- **📖 Portfolio Digital:** *Dalam proses pembuatan seperti pembuatan keris*
+- **📝 Blog Analisis:** [Medium - Data dengan Rasa Indonesia](https://medium.com/@amadeusrizz)
+- **🗂️ Arsip Belajar:** Repository GitHub sebagai catatan perjalanan
+- **💡 Snippet Berguna:** [GitHub Gist Collection](https://gist.github.com/deuscoco)
+
+---
+
+## 🎵 **GENDING KREATIVITAS HARIAN**
+
+### **🌺 Suasana Berkarya Hari Ini**
+```
+🎧 Mendengarkan: Gending Jawa instrumental
+📚 Membaca: "Data untuk Desa" - studi kasus lokal
+💭 Berpikir: Bagaimana dashboard bisa membantu UMKM tradisional?
+🎯 Bekerja: Analisis data pariwisata Indonesia
+🌱 Berkembang: Belajar teknik NLP untuk bahasa daerah
+🪶 Inspirasi: Motif batik sebagai pola data visualization
+```
+
+### **✨ Prinsip Desain Berbasis Budaya**
+> ***"Seperti arsitektur tradisional: fungsional, estetis, dan berkelanjutan. Seperti batik: setiap pola punya makna, setiap warna punya cerita."***
+
+---
+
+<footer align="center">
+
+<!-- Footer dengan ornamen tradisional -->
+<div style="background: linear-gradient(to bottom, #E6D2A8, #D4BC8A); padding: 25px; border-radius: 20px 20px 0 0; border-top: 5px solid #8B4513;">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=e6d2a8,d4bc8a&height=80&section=footer&text=ꦢꦠ꦳ꦴ • ꦧꦸꦢꦪ • ꦩꦱꦴꦣꦺꦥꦤ꧀&fontSize=26&fontColor=5d4037&animation=twinkling" width="100%"/>
+
+<div style="margin-top: 20px; color: #5D4037; font-family: 'Javanese Text', serif;">
+  <b>ꦱꦼꦏꦼꦕꦶꦭ꧀ꦲꦥꦮꦺꦴꦤ꧀ꦢꦠ꦳ꦴꦔꦒꦼꦭꦂꦲꦶꦤ꧀ꦱꦲꦾꦠ꧀ꦪꦁꦧꦼꦂꦩꦏ꧀ꦤ</b>
+</div>
+
+<div style="margin-top: 15px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   
-  <a href="https://www.tiktok.com/@traarizz">
-    <img src="https://img.shields.io/badge/TikTok-@traarizz-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
+  <div style="text-align: center; min-width: 120px;">
+    <div style="font-size: 14px; color: #795548; font-weight: bold;">ꦢꦶꦒꦮꦺ</div>
+    <div style="font-size: 18px; color: #8B4513;">💖 📊</div>
+    <div style="font-size: 11px; color: #795548;">dengan hati & data</div>
+  </div>
   
-  <a href="https://medium.com/@amadeusrizz/proyek-junior-data-analyst-pengalaman-bekerja-dalam-simulasi-industri-data-38aaefe23355">
-    <img src="https://img.shields.io/badge/Medium-Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+  <div style="text-align: center; min-width: 120px;">
+    <div style="font-size: 14px; color: #795548; font-weight: bold;">ꦥꦼꦂꦧꦂꦪꦤ꧀</div>
+    <div style="font-size: 18px; color: #8B4513;">ꦗꦤꦸꦮꦫꦶ ꧒꧐꧒꧔</div>
+    <div style="font-size: 11px; color: #795548;">Januari 2024</div>
+  </div>
   
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScUTS5xM1VKLfxuQ3zerXOhR6e_51-VwLbU_LisGlUvcNoKzw/viewform">
-    <img src="https://img.shields.io/badge/Feedback-Give_Your_Thoughts-4285F4?style=for-the-badge&logo=googleforms&logoColor=white"/>
-  </a>
+  <div style="text-align: center; min-width: 120px;">
+    <div style="font-size: 14px; color: #795548; font-weight: bold;">ꦮꦂꦤ</div>
+    <div style="font-size: 18px; color: #8B4513;">꧓.꧐ 🇮🇩</div>
+    <div style="font-size: 11px; color: #795548;">Versi 3.0</div>
+  </div>
   
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=deuscoco&label=PROFILE+VISITORS&color=00f0ff&style=for-the-badge" alt="Profile Views"/>
-  
-  <div>
-    <i>"In God we trust, all others must bring data." - W. Edwards Deming</i>
+  <div style="text-align: center; min-width: 120px;">
+    <div style="font-size: 14px; color: #795548; font-weight: bold;">ꦥꦤꦺꦮꦺꦴꦤ꧀</div>
+    <div style="font-size: 18px; color: #8B4513;">
+      <img src="https://komarev.com/ghpvc/?username=deuscoco&label=&color=8B4513&style=flat-square&labelColor=F5E8C7" alt="Profile views" />
+    </div>
+    <div style="font-size: 11px; color: #795548;">dilihat</div>
+  </div>
+
+</div>
+
+<div style="margin-top: 25px; padding-top: 15px; border-top: 2px dashed #8B4513;">
+  <div style="font-size: 12px; color: #795548; font-style: italic;">
+    "ꦲꦺꦴꦫꦠ꦳ꦴꦏꦼꦧꦺꦏꦸꦭ꧀ꦲꦺꦴꦫꦠ꦳ꦴꦏꦼꦧꦺꦏꦸꦭ꧀ꦥꦸꦤ꧀ꦢꦶꦩꦺꦔꦺꦤꦺꦔꦺꦤꦶ"
+  </div>
+  <div style="font-size: 10px; color: #795548; margin-top: 5px;">
+    <i>Orang berkebun, orang berkebun pula yang akan memanennya</i>
   </div>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f0ff&height=120&section=footer&fontColor=ffffff&fontSize=24&animation=fadeIn&text=CODE%20WITH%20PURPOSE%20•%20ANALYZE%20WITH%20PASSION" width="100%"/>
-  
-  <div>
-    <b>Last Updated:</b> January 2024
-  </div>
 </div>
 
----
-
-<div align="center">
-  <sub><b>🚀 Keep Exploring, Keep Analyzing, Keep Growing!</b></sub>
-  <br/>
-  <sub>Made with ❤️ and 📊 by Amadeus Daniel</sub>
-</div>
+</footer>
 
 ---
-
- 
