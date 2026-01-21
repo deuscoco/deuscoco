@@ -1,3 +1,5 @@
+Anda benar! Saya akan perbaiki bagian yang bermasalah dan berikan versi yang benar-benar siap pakai:
+
 # 🚀 README PROFILE - AMADEUS DANIEL
 
 <div align="center">
@@ -20,24 +22,26 @@
 
 ## 🌟 ABOUT ME: THE DATA STORYTELLER
 
-```python
-# JuniorDataAnalyst Profile
-name = "Amadeus Daniel Adisaputra"
-role = "Data Alchemist"
-location = "Indonesia"
-mission = "Transform raw data into compelling narratives"
-status = "🔍 Currently exploring patterns in the chaos"
+**Name:** Amadeus Daniel Adisaputra  
+**Role:** Data Alchemist  
+**Location:** Indonesia  
+**Mission:** Transform raw data into compelling narratives  
+**Status:** 🟢 Currently exploring patterns in the chaos  
 
-skills = {
-    "data_wrangling": "Expert",
-    "insight_generation": "Advanced", 
-    "visual_storytelling": "Advanced",
-    "sql_mastery": "Expert",
-    "python_analytics": "Intermediate"
-}
+| Skill | Level | Rating |
+|-------|-------|--------|
+| **Data Wrangling** | Expert | ★★★★★ |
+| **Insight Generation** | Advanced | ★★★★☆ |
+| **Visual Storytelling** | Advanced | ★★★★☆ |
+| **SQL Mastery** | Expert | ★★★★★ |
+| **Python Analytics** | Intermediate | ★★★☆☆ |
 
-philosophy = "Every dataset tells a story. My job is to translate it."
-```
+> "Every dataset tells a story. My job is to translate it."
+
+**Contact:**  
+📧 GitHub: [deuscoco](https://github.com/deuscoco)  
+📱 Instagram: [@amaadeusdaniel](https://instagram.com/amaadeusdaniel)  
+🎵 TikTok: [@traarizz](https://tiktok.com/@traarizz)
 
 ---
 
@@ -61,6 +65,21 @@ philosophy = "Every dataset tells a story. My job is to translate it."
     </tr>
   </table>
 </div>
+
+---
+
+## 🗺️ LEARNING ROADMAP – JUNIOR DATA ANALYST
+
+| Week | Focus Area | Status | Repository |
+|------|------------|--------|------------|
+| **Week 1** | Orientasi Industri & Setup Tools | ✅ Completed | 🔗 [View Repo](https://github.com/deuscoco/week-1-junior-data-analyst) |
+| **Week 2** | Data Collection & Understanding | 🟡 In Progress | 🔗 [View Repo](https://github.com/deuscoco/data-collection-understanding) |
+| **Week 3** | Data Cleaning & Preparation | ⏳ Planned | Coming Soon |
+| **Week 4** | Exploratory Data Analysis | ⏳ Planned | Coming Soon |
+| **Week 5** | SQL for Analytics | ⏳ Planned | Coming Soon |
+| **Week 6** | Data Visualization | ⏳ Planned | Coming Soon |
+| **Week 7** | Mini Project | ⏳ Planned | Coming Soon |
+| **Week 8** | Final Project & Reporting | ⏳ Planned | Coming Soon |
 
 ---
 
@@ -122,53 +141,63 @@ philosophy = "Every dataset tells a story. My job is to translate it."
 
 ---
 
-## 🚀 PROJECT ROADMAP TIMELINE
-
-### **📅 Learning Journey Timeline**
-
-| Phase | Description | Status | Timeline |
-|-------|-------------|--------|----------|
-| **01** | Foundation: Git, SQL, Python Basics | ✅ COMPLETED | Jan 2024 |
-| **02** | Data Collection & Understanding | 🟡 IN PROGRESS | Feb-Mar 2024 |
-| **03** | Data Cleaning & Transformation | 🔒 PLANNED | Apr 2024 |
-| **04** | Analysis & Visualization | 🔒 PLANNED | May 2024 |
-| **05** | Portfolio & Case Studies | 🔒 PLANNED | Jun 2024 |
-
----
-
-## 📚 LEARNING JOURNEY LOG
+## 📚 WEEKLY PROGRESS DETAILS
 
 <details>
-<summary><b>📖 Click to expand learning journey</b></summary>
+<summary><b>📖 Click to expand weekly progress details</b></summary>
 
-### **🎯 Phase 1: Foundation (COMPLETED)**
-- ✅ Git & GitHub Mastery
-- ✅ SQL Query Optimization  
-- ✅ Python for Data Analysis
-- ✅ Command Line Basics
+### **✅ Week 1: Orientation & Setup**
+- ✅ Git & GitHub configuration
+- ✅ Development environment setup
+- ✅ Understanding data analyst role
+- ✅ Project management tools
 
-### **🚧 Phase 2: Collection & Cleaning (ACTIVE)**
-- 🚧 Understanding Data Sources
-- 🚧 API Data Collection
-- 🚧 Web Scraping Basics
-- ⏳ Data Quality Assessment
+### **🟡 Week 2: Data Collection (Current)**
+- 🟡 Understanding data sources
+- 🟡 API data collection techniques
+- 🟡 Web scraping fundamentals
+- ⏳ Data ingestion pipelines
 
-### **📋 Phase 3: Analysis (PLANNED)**
-- 📋 Exploratory Data Analysis
-- 📋 Statistical Methods
-- 📋 Data Visualization Principles
-- 📋 Dashboard Creation
+### **⏳ Week 3: Data Cleaning**
+- ⏳ Handling missing values
+- ⏳ Outlier detection & treatment
+- ⏳ Data normalization
+- ⏳ Quality assessment
 
-### **🌟 Phase 4: Professional (UPCOMING)**
-- 🌟 Portfolio Development
-- 🌟 Case Studies
-- 🌟 Industry Best Practices
-- 🌟 Networking & Collaboration
+### **⏳ Week 4: Exploratory Analysis**
+- ⏳ Statistical summaries
+- ⏳ Pattern discovery
+- ⏳ Correlation analysis
+- ⏳ Hypothesis testing
+
+### **⏳ Week 5: SQL Analytics**
+- ⏳ Advanced SQL queries
+- ⏳ Window functions
+- ⏳ Query optimization
+- ⏳ Database design
+
+### **⏳ Week 6: Visualization**
+- ⏳ Chart selection principles
+- ⏳ Dashboard design
+- ⏳ Storytelling with data
+- ⏳ Interactive visualizations
+
+### **⏳ Week 7: Mini Project**
+- ⏳ End-to-end data project
+- ⏳ Real-world dataset
+- ⏳ Full analysis workflow
+- ⏳ Presentation skills
+
+### **⏳ Week 8: Final Project**
+- ⏳ Portfolio project
+- ⏳ Industry case study
+- ⏳ Final presentation
+- ⏳ Documentation
 </details>
 
 ---
 
-## 🎨 DATA WORKFLOW ASCII ART
+## 🎨 DATA WORKFLOW
 
 ```
 ╔═══════════════════════════════════════════╗
@@ -241,7 +270,7 @@ philosophy = "Every dataset tells a story. My job is to translate it."
   
   <img src="https://komarev.com/ghpvc/?username=deuscoco&label=PROFILE+VISITORS&color=00f0ff&style=for-the-badge" alt="Profile Views"/>
   
-  <div style="margin: 30px 0; padding: 20px; background: rgba(0, 240, 255, 0.1); border-radius: 10px; border-left: 5px solid #00f0ff;">
+  <div>
     <i>"In God we trust, all others must bring data." - W. Edwards Deming</i>
   </div>
 </div>
@@ -251,7 +280,7 @@ philosophy = "Every dataset tells a story. My job is to translate it."
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f0ff&height=120&section=footer&fontColor=ffffff&fontSize=24&animation=fadeIn&text=CODE%20WITH%20PURPOSE%20•%20ANALYZE%20WITH%20PASSION" width="100%"/>
   
-  <div style="font-family: 'Courier New', monospace; font-size: 14px; color: #00f0ff; margin-top: 20px;">
+  <div>
     <b>Last Updated:</b> January 2024
   </div>
 </div>
@@ -263,3 +292,7 @@ philosophy = "Every dataset tells a story. My job is to translate it."
   <br/>
   <sub>Made with ❤️ and 📊 by Amadeus Daniel</sub>
 </div>
+
+---
+
+ 
