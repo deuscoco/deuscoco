@@ -1,143 +1,140 @@
-<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amadeus%20Daniel%20Adisaputra&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Junior%20Data%20Analyst%20%7C%20Turning%20Data%20Into%20Insights&descAlignY=55&descSize=20" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=00C9FF&center=true&vCenter=true&width=1000&lines=Amadeus+Daniel+Adisaputra;Junior+Data+Analyst;Turning+Raw+Data+Into+Clear+Insights;Learning+by+Building+Real+Projects" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Junior_Data_Analyst-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Analytics_&_SQL-00C9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Problem_Solver-success?style=for-the-badge"/>
-</p>
-
----
-
-## 🧠 Who Am I?
-
-Saya **Amadeus Daniel Adisaputra**, seorang **Junior Data Analyst** yang percaya bahwa:
-
-> 📊 *Data bukan sekadar angka — data adalah alat untuk mengambil keputusan yang lebih baik.*
-
-Saya membangun GitHub ini sebagai **living portfolio**:  
-tempat saya mendokumentasikan **proses belajar, eksperimen, kegagalan, dan peningkatan skill** secara nyata seperti di dunia industri.
-
----
-
-## 🧭 My Data Mindset
-
-- 🔍 **Ask the right question before touching the data**
-- 🧹 **Clean data = reliable insight**
-- 📈 **Insight > visual yang cantik**
-- 🧠 **Context is more important than complexity**
-
----
-
-## 🔥 What Makes This GitHub Different?
-
-✅ Bukan kumpulan repo acak  
-✅ Terstruktur seperti **program industri / bootcamp**  
-✅ Ada roadmap, progres, dan dokumentasi  
-✅ Fokus pada **thinking process**, bukan cuma output  
-
----
-
-## 🛠️ Skills & Tools
-
-### 📊 Data & Analytics
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Cleaning-009688?style=for-the-badge"/>
-</p>
-
-### 🧰 Programming & Tech
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-</p>
-
----
-
-## 🗺️ Learning Roadmap – Junior Data Analyst
-
-| Week | Focus Area | Status | Repository |
-|------|------------|--------|------------|
-| Week 1 | Orientasi Industri & Setup Tools | ✅ Completed | 🔗 [View Repo](https://github.com/deuscoco/week-1-junior-data-analyst) |
-| Week 2 | Data Collection & Understanding | 🟡 In Progress | 🔗 [View Repo](https://github.com/deuscoco/data-collection-understanding) |
-| Week 3 | Data Cleaning & Preparation | ⏳ Planned | Coming Soon |
-| Week 4 | Exploratory Data Analysis | ⏳ Planned | Coming Soon |
-| Week 5 | SQL for Analytics | ⏳ Planned | Coming Soon |
-| Week 6 | Data Visualization | ⏳ Planned | Coming Soon |
-| Week 7 | Mini Project | ⏳ Planned | Coming Soon |
-| Week 8 | Final Project & Reporting | ⏳ Planned | Coming Soon |
-
----
-
-## 🖼️ Visual Snapshot
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/banners.jpeg" width="260"/>
-        <br/><b>Project Overview</b>
-      </td>
-      <td align="center">
-        <img src="assets/banners2.jpeg" width="260"/>
-        <br/><b>Data Workflow</b>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 📰 Articles & Publications
-
-| No | Platform | Link |
-|----|---------|------|
-| 1 | Medium | <a href="https://medium.com/@amadeusrizz/proyek-junior-data-analyst-pengalaman-bekerja-dalam-simulasi-industri-data-38aaefe23355"><img src="https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium"/></a> |
-| 2 | Google Form | <a href="https://docs.google.com/forms/d/e/1FAIpQLScUTS5xM1VKLfxuQ3zerXOhR6e_51-VwLbU_LisGlUvcNoKzw/viewform"><img src="https://img.shields.io/badge/Google_Form-4285F4?style=for-the-badge&logo=google"/></a> |
-
----
-
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deuscoco&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p>
-  <a href="https://www.instagram.com/amaadeusdaniel">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=339AF0&center=true&vCenter=true&width=800&lines=SELECT+*+FROM+world+WHERE+logic+%3D+'data_driven';Loading+Insight...;Focusing+on+Analytics%2C+SQL%2C+and+Python;Building+Portfolio+in+Public..." alt="Typing SVG" />
   </a>
-  <a href="https://www.tiktok.com/@traarizz">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+<table align="center">
+<tr>
+<td width="50%" align="left" valign="top">
+
+### 🧠 The Data Mindset
+
+> *"Data is not just numbers, it's the voice of your business."*
+
+Hai, saya **Amadeus**! 👋  
+Saya membangun GitHub ini sebagai **Living Portfolio** untuk mendokumentasikan perjalanan saya dari raw data menjadi clear insights.
+
+**🔭 Current Focus:**
+- 🧹 **Data Cleaning:** Because trash in = trash out.
+- 🔍 **EDA:** Asking the right questions.
+- 📊 **Storytelling:** Visuals that speak.
+
+**🌱 What I Believe:**
+- **Context** > Complexity
+- **Actionable Insight** > Fancy Charts
+- **Consistency** > Intensity
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4M2ZxdGg4Ynd4anB6eXF6eXF6eXF6eXF6eXF6eXF6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVThqceKoyC7i5/giphy.gif" width="90%"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<p align="center">
-  <b>📌 This GitHub is a journey, not a destination.</b><br/>
-  I believe consistent learning beats talent 🚀
-</p>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,vscode,github,git,excel,powerbi,tableau,html,css,js,php&perline=6" />
+</div>
+
+<br/>
+
+<h3 align="center">📊 Data Dashboard</h3>
+
+<div align="center">
+<table align="center">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deuscoco&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deuscoco&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="820" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<h3 align="center">🗺️ Bootcamp Simulation Roadmap</h3>
+
+<div align="center">
+
+| Status | Week | Phase | Repository / Artifact |
+| :---: | :---: | :--- | :--- |
+| ✅ | **01** | **Orientasi & Setup** | [📂 View Repo](https://github.com/deuscoco/week-1-junior-data-analyst) |
+| 🟡 | **02** | **Data Collection** | [📂 View Repo](https://github.com/deuscoco/data-collection-understanding) |
+| ⏳ | **03** | **Data Cleaning** | *Loading...* |
+| ⏳ | **04** | **Exploratory Data Analysis** | *Loading...* |
+| ⏳ | **05** | **SQL Mastery** | *Loading...* |
+| ⏳ | **06** | **Data Visualization** | *Loading...* |
+| ⏳ | **07** | **Mini Project** | *Loading...* |
+| ⏳ | **08** | **Final Report** | *Loading...* |
+
+</div>
+
+---
+
+<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 📰 Publications
+
+<a href="https://medium.com/@amadeusrizz/proyek-junior-data-analyst-pengalaman-bekerja-dalam-simulasi-industri-data-38aaefe23355">
+  <img src="https://img.shields.io/badge/Medium-Read_Article-black?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<br/>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScUTS5xM1VKLfxuQ3zerXOhR6e_51-VwLbU_LisGlUvcNoKzw/viewform">
+  <img src="https://img.shields.io/badge/Google_Form-Feedback-blue?style=for-the-badge&logo=googleforms&logoColor=white" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 📫 Connect with Me
+
+<a href="https://www.instagram.com/amaadeusdaniel">
+  <img src="https://img.shields.io/badge/Instagram-@amaadeusdaniel-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<br/>
+<a href="https://www.tiktok.com/@traarizz">
+  <img src="https://img.shields.io/badge/TikTok-@traarizz-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+<br/>
+<a href="mailto:emailmu@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/deuscoco/count.svg" />
+  
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
