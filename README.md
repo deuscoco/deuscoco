@@ -183,7 +183,7 @@ Minggu 1   Minggu 2
 <td align="center" width="50%">
 
 **📊 Pola Alur Kerja Analisis**  
-![Data Workflow](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/banners.jpeg)  
+![Data Workflow](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/cc2.png)  
 *"Seperti alur sungai di Nusantara, data mengalir dari sumber hingga insight"*
 
 **🎨 Motif Terinspirasi:** Aliran sungai tradisional dalam relief candi
@@ -192,7 +192,7 @@ Minggu 1   Minggu 2
 <td align="center" width="50%">
 
 **📈 Dashboard dengan Sentuhan Lokal**  
-![Dashboard Example](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/banners2.jpeg)  
+![Dashboard Example](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/cc.png)  
 *"Dashboard seperti peta kuno - menunjukkan jalan menuju harta karun insight"*
 
 **🎨 Motif Terinspirasi:** Peta kuno Nusantara dan kompas tradisional
