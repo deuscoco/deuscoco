@@ -107,7 +107,7 @@ Visualization        Business Insight
 `Progress: ████████░░ 80%`  
 *Mengumpulkan data UMKM Indonesia untuk analisis pertumbuhan digital*  
 
-🔗 [Lihat Repository](https://github.com/deuscoco/data-collection-understanding)
+🔗 [Lihat Repository](https://github.com/deuscoco/week-1-junior-data-analyst)
 
 > **🪶 Filosofi Proyek:** *"Seperti mengumpulkan rempah-rempah dari berbagai pulau, data dikumpulkan dari berbagai sumber untuk menciptakan insight yang kaya rasa."*
 
@@ -183,7 +183,7 @@ Minggu 1   Minggu 2
 <td align="center" width="50%">
 
 **📊 Pola Alur Kerja Analisis**  
-![Data Workflow](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/banner1.jpg)  
+![Data Workflow](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/banners.jpeg)  
 *"Seperti alur sungai di Nusantara, data mengalir dari sumber hingga insight"*
 
 **🎨 Motif Terinspirasi:** Aliran sungai tradisional dalam relief candi
@@ -192,7 +192,7 @@ Minggu 1   Minggu 2
 <td align="center" width="50%">
 
 **📈 Dashboard dengan Sentuhan Lokal**  
-![Dashboard Example](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/banner2.jpg)  
+![Dashboard Example](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/banners2.jpeg)  
 *"Dashboard seperti peta kuno - menunjukkan jalan menuju harta karun insight"*
 
 **🎨 Motif Terinspirasi:** Peta kuno Nusantara dan kompas tradisional
