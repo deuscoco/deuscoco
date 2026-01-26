@@ -20,7 +20,7 @@
 
 ---
 
-## 🏮 **PROFIL: JUNIOR DATA ANALYST BERWAWASAN KEBUDAYAAN**
+## 🏮 **PROFIL: JUNIOR DATA ANALYST**
 
 ### **🪶 Lembaran Identitas**
 > ***"Seperti seorang empu yang menempa keris, saya menempa data menjadi insight yang tajam dan bermakna."***
