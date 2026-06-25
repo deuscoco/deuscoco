@@ -188,6 +188,77 @@ Status  : 🌱 Berkembang seperti padi
 </table>
 
 ---
+
+## 📱 **PORTOFOLIO APLIKASI MOBILE**
+
+### **🚀 Expo Go Projects**
+
+> ***"Mengubah ide menjadi aplikasi yang dapat digunakan secara nyata melalui teknologi mobile modern."***
+
+<table>
+<tr>
+<td width="50%">
+
+#### **📅 Daily Reminder App**
+
+`Status: ✅ Completed`
+`Platform: Android & iOS`
+`Framework: React Native + Expo`
+
+Aplikasi pengingat aktivitas harian yang dirancang untuk membantu pengguna mengatur jadwal, mencatat tugas penting, dan meningkatkan produktivitas sehari-hari melalui antarmuka yang sederhana dan mudah digunakan.
+
+**✨ Fitur Utama**
+
+* ➕ Menambahkan pengingat harian
+* 📝 Mengelola daftar aktivitas
+* ⏰ Pengingat tugas penting
+* ✅ Menandai tugas selesai
+* 💾 Penyimpanan data lokal
+* 📱 Antarmuka responsif dan ringan
+
+**🛠️ Teknologi**
+
+* React Native
+* Expo Go
+* JavaScript
+* Async Storage
+
+</td>
+<td width="50%">
+
+#### **🔗 Akses Proyek**
+
+**📂 Repository GitHub**
+
+* 🔗 https://github.com/deuscoco/expogo
+
+**📱 Demo Expo Go**
+
+* 🔗 exp://u.expo.dev/1f0b4cad-c72c-41c0-969c-5aeb0e761c15/group/96acb378-c315-4247-a1cb-12de4d518b3d
+
+**🎯 Tujuan Proyek**
+
+* Mempelajari pengembangan aplikasi mobile cross-platform.
+* Implementasi state management dan local storage.
+* Membangun portofolio React Native yang siap dipresentasikan kepada recruiter maupun akademisi.
+
+> **💡 Filosofi Proyek:**
+> *"Produktivitas dimulai dari kebiasaan kecil yang dilakukan secara konsisten. Daily Reminder App hadir untuk membantu pengguna menjaga konsistensi aktivitas hariannya."*
+
+</td>
+</tr>
+</table>
+
+### 📊 Ringkasan Proyek Mobile
+
+| Project               | Teknologi                      | Status    | Repository                         |
+| --------------------- | ------------------------------ | --------- | ---------------------------------- |
+| 📅 Daily Reminder App | React Native, Expo, JavaScript | ✅ Selesai | https://github.com/deuscoco/expogo |
+
+---
+
+
+---
 ## 📅 PERJALANAN BELAJAR 8 MINGGU
 
 ### 🗺️ Peta Perjalanan Pembelajaran
