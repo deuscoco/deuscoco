@@ -2,48 +2,48 @@
 
 <div align="center">
 
-<!-- Header dengan gradasi cream dan motif batik -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=f5e8c7,e6d2a8&height=220&section=header&text=AMADEUS%20DANIEL&fontSize=52&fontColor=8B4513&animation=fadeIn&fontAlignY=40&desc=Junior%20Data%20Analyst%20%7C%20Bangga%20Produk%20Indonesia&descAlignY=65&descSize=22&descColor=795548" width="100%" />
+<!-- Header with cream gradient and batik motif -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=f5e8c7,e6d2a8&height=220&section=header&text=AMADEUS%20DANIEL&fontSize=52&fontColor=8B4513&animation=fadeIn&fontAlignY=40&desc=Junior%20Data%20Analyst%20%7C%20Proud%20of%20Indonesian%20Products&descAlignY=65&descSize=22&descColor=795548" width="100%" />
 
-<!-- Typing dengan font yang lebih tradisional -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=4000&pause=2000&color=8B4513&background=F5E8C700&center=true&vCenter=true&width=1000&height=80&lines=Mengolah+Data+dengan+Nilai+Keindonesiaan;Merajut+Insight+seperti+Membatik;Analisis+yang+Menghormati+Kontekstualitas;Teknologi+Global%2C+Nilai+Lokal" alt="Typing SVG" />
+<!-- Typing with a more traditional font -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=4000&pause=2000&color=8B4513&background=F5E8C700&center=true&vCenter=true&width=1000&height=80&lines=Processing+Data+with+Indonesian+Values;Weaving+Insight+like+Batik+Making;Analysis+that+Respects+Context;Global+Technology%2C+Local+Values" alt="Typing SVG" />
 
-<!-- Badges dengan ikon tradisional Indonesia -->
+<!-- Badges with traditional Indonesian icons -->
 <div>
   <img src="https://img.shields.io/badge/🪶-Junior_Data_Analyst-8B4513?style=for-the-badge&logoColor=white&labelColor=F5E8C7"/>
   <img src="https://img.shields.io/badge/🎯-Python_SQL-795548?style=for-the-badge&logo=python&logoColor=white&labelColor=F5E8C7"/>
-  <img src="https://img.shields.io/badge/📜-Visualisasi_Ala_Nusantara-D4A017?style=for-the-badge&logo=tableau&logoColor=white&labelColor=F5E8C7"/>
-  <img src="https://img.shields.io/badge/🌺-Pembelajar_Berkebudayaan-228B22?style=for-the-badge&logo=github&logoColor=white&labelColor=F5E8C7"/>
+  <img src="https://img.shields.io/badge/📜-Nusantara_Style_Visualization-D4A017?style=for-the-badge&logo=tableau&logoColor=white&labelColor=F5E8C7"/>
+  <img src="https://img.shields.io/badge/🌺-Culturally_Minded_Learner-228B22?style=for-the-badge&logo=github&logoColor=white&labelColor=F5E8C7"/>
 </div>
 
 </div>
 
 <br>
 
-<!-- Daftar Isi yang Menarik dengan Desain Batik -->
+<!-- Engaging Table of Contents with Batik Design -->
 <div align="center">
 
-## 📜 **DAFTAR ISI - PANGGUNG WAYANG DATA**
+## 📜 **TABLE OF CONTENTS - THE WAYANG STAGE OF DATA**
 
 <table style="border-collapse: collapse; width: 100%; background: linear-gradient(135deg, #F5E8C7 0%, #E6D2A8 100%); border-radius: 15px; overflow: hidden;">
 <tr>
 <td style="padding: 20px; border-right: 2px dashed #8B4513; border-bottom: 2px dashed #8B4513;">
 
-### 🎭 **PROFIL & IDENTITAS**
+### 🎭 **PROFILE & IDENTITY**
 <table style="width: 100%;">
-<tr><td style="padding: 5px;">🏮 <a href="#-profil-junior-data-analyst">Profil: Junior Data Analyst</a></td></tr>
-<tr><td style="padding: 5px;">📚 <a href="#-perpustakaan-digital">Perpustakaan Digital</a></td></tr>
-<tr><td style="padding: 5px;">📅 <a href="#-perjalanan-belajar-8-minggu">Perjalanan Belajar 8 Minggu</a></td></tr>
+<tr><td style="padding: 5px;">🏮 <a href="#-profile-junior-data-analyst">Profile: Junior Data Analyst</a></td></tr>
+<tr><td style="padding: 5px;">📚 <a href="#-digital-library">Digital Library</a></td></tr>
+<tr><td style="padding: 5px;">📅 <a href="#-8-week-learning-journey">8-Week Learning Journey</a></td></tr>
 </table>
 
 </td>
 <td style="padding: 20px; border-bottom: 2px dashed #8B4513;">
 
-### 🎨 **KOMPETENSI & KEAHLIAN**
+### 🎨 **COMPETENCIES & SKILLS**
 <table style="width: 100%;">
-<tr><td style="padding: 5px;">🎭 <a href="#-pola-kompetensi-seperti-batik">Pola Kompetensi seperti Batik</a></td></tr>
-<tr><td style="padding: 5px;">🗂️ <a href="#️-proyek-cerita-dari-data-lokal">Proyek: Cerita dari Data Lokal</a></td></tr>
-<tr><td style="padding: 5px;">🖼️ <a href="#️-galeri-visual-data-dalam-seni-indonesia">Galeri Visual: Data dalam Seni Indonesia</a></td></tr>
+<tr><td style="padding: 5px;">🎭 <a href="#-competency-pattern-like-batik">Competency Pattern like Batik</a></td></tr>
+<tr><td style="padding: 5px;">🗂️ <a href="#️-project-stories-from-local-data">Project: Stories from Local Data</a></td></tr>
+<tr><td style="padding: 5px;">🖼️ <a href="#️-visual-gallery-data-in-indonesian-art">Visual Gallery: Data in Indonesian Art</a></td></tr>
 </table>
 
 </td>
@@ -51,20 +51,20 @@
 <tr>
 <td style="padding: 20px; border-right: 2px dashed #8B4513;">
 
-### ⚙️ **ALAT & TEKNOLOGI**
+### ⚙️ **TOOLS & TECHNOLOGY**
 <table style="width: 100%;">
-<tr><td style="padding: 5px;">🛠️ <a href="#️-perkakas-digital-alat-modern-nilai-tradisi">Perkakas Digital: Alat Modern, Nilai Tradisi</a></td></tr>
-<tr><td style="padding: 5px;">📈 <a href="#-pamor-digital-statistik--prestasi">Pamor Digital: Statistik & Prestasi</a></td></tr>
-<tr><td style="padding: 5px;">🏆 <a href="#-penghargaan-digital">Penghargaan Digital</a></td></tr>
+<tr><td style="padding: 5px;">🛠️ <a href="#️-digital-toolkit-modern-tools-traditional-values">Digital Toolkit: Modern Tools, Traditional Values</a></td></tr>
+<tr><td style="padding: 5px;">📈 <a href="#-digital-pamor-stats--achievements">Digital Pamor: Stats & Achievements</a></td></tr>
+<tr><td style="padding: 5px;">🏆 <a href="#-digital-awards">Digital Awards</a></td></tr>
 </table>
 
 </td>
 <td style="padding: 20px;">
 
-### 🌐 **JARINGAN & KOMUNITAS**
+### 🌐 **NETWORK & COMMUNITY**
 <table style="width: 100%;">
-<tr><td style="padding: 5px;">💭 <a href="#-warung-data-tempat-berbagi-insight">Warung Data: Tempat Berbagi Insight</a></td></tr>
-<tr><td style="padding: 5px;">🌐 <a href="#-jaringan-silaturahmi-digital">Jaringan Silaturahmi Digital</a></td></tr>
+<tr><td style="padding: 5px;">💭 <a href="#-data-warung-a-place-to-share-insight">Data Warung: A Place to Share Insight</a></td></tr>
+<tr><td style="padding: 5px;">🌐 <a href="#-digital-silaturahmi-network">Digital Silaturahmi Network</a></td></tr>
 </table>
 
 </td>
@@ -73,19 +73,19 @@
 
 <br>
 
-<!-- Quick Navigation dengan Ikon -->
+<!-- Quick Navigation with Icons -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="#-profil-junior-data-analyst" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🏮_PROFIL-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
+  <a href="#-profile-junior-data-analyst" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🏮_PROFILE-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
   </a>
-  <a href="#-perpustakaan-digital" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📚_PERPUSTAKAAN-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
+  <a href="#-digital-library" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📚_LIBRARY-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
   </a>
-  <a href="#-perjalanan-belajar-8-minggu" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📅_PERJALANAN-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
+  <a href="#-8-week-learning-journey" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📅_JOURNEY-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
   </a>
-  <a href="#-pola-kompetensi-seperti-batik" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🎭_KOMPETENSI-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
+  <a href="#-competency-pattern-like-batik" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🎭_COMPETENCY-F5E8C7?style=for-the-badge&logoColor=8B4513&labelColor=795548"/>
   </a>
 </div>
 
@@ -93,33 +93,33 @@
 
 ---
 
-## 🏮 **PROFIL: JUNIOR DATA ANALYST**
+## 🏮 **PROFILE: JUNIOR DATA ANALYST**
 
-### **🪶 Lembaran Identitas**
-> ***"Seperti seorang empu yang menempa keris, saya menempa data menjadi insight yang tajam dan bermakna."***
+### **🪶 Identity Sheet**
+> ***"Like a master smith forging a keris, I forge data into sharp and meaningful insight."***
 
 <table>
 <tr>
 <td width="50%">
 
-#### **🎭 Identitas Diri**
+#### **🎭 Personal Identity**
 ```
-Nama    : Amadeus Daniel Adisaputra
-Posisi  : Junior Data Analyst  
-Asal    : Tanah Air Indonesia
-Falsafah: "Data untuk kemaslahatan"
-Status  : 🌱 Berkembang seperti padi
+Name      : Amadeus Daniel Adisaputra
+Position  : Junior Data Analyst  
+Origin    : Indonesia
+Philosophy: "Data for the common good"
+Status    : 🌱 Growing like rice
 ```
 
 </td>
 <td width="50%">
 
-#### **🎨 Simbolisasi Nilai**
+#### **🎨 Value Symbolism**
 ```
-🪶 Ketelitian   : Seperti ukiran kayu
-🤝 Gotong Royong: Kolaborasi tim data  
-🎭 Kreativitas  : Warna-warni Nusantara
-🌾 Kebermanfaatan: Hasil untuk banyak orang
+🪶 Precision      : Like wood carving
+🤝 Mutual Cooperation: Data team collaboration  
+🎭 Creativity     : Colors of the Archipelago
+🌾 Usefulness     : Results for many people
 ```
 
 </td>
@@ -128,60 +128,60 @@ Status  : 🌱 Berkembang seperti padi
 
 ---
 
-## 📚 **PERPUSTAKAAN DIGITAL**
+## 📚 **DIGITAL LIBRARY**
 
-### **📖 Koleksi Pengetahuan & Portfolio**
-> ***"Seperti perpustakaan lontar Bali, menyimpan pengetahuan untuk generasi mendatang."***
+### **📖 Knowledge Collection & Portfolio**
+> ***"Like a Balinese lontar library, preserving knowledge for future generations."***
 
 <table>
 <tr>
 <td width="50%">
 
-#### **🏺 Portfolio & Repositori**
-`Status: Terus Berkembang`  
-*Koleksi karya dan pembelajaran digital*
+#### **🏺 Portfolio & Repositories**
+`Status: Continuously Growing`  
+*A collection of digital works and learning*
 
-**📂 Portofolio Digital:**
+**📂 Digital Portfolio:**
 - 🔗 [GitHub Repositories](https://github.com/deuscoco)
 - 📓 [Jupyter Notebook Collection](https://github.com/deuscoco)
 - 🎯 [Project Documentation](https://github.com/deuscoco)
 - 💡 [GitHub Gists & Snippets](https://gist.github.com/deuscoco)
 
-**📁 Proyek Unggulan:**
-- 📦 [Pengumpulan Data UMKM Digital](https://github.com/deuscoco/week-1-junior-data-analyst)
+**📁 Featured Projects:**
+- 📦 [Digital MSME Data Collection](https://github.com/deuscoco/week-1-junior-data-analyst)
 - 🔍 [Data Collection Understanding](https://github.com/deuscoco/data-collection-understanding)
-- 🧹 [Pembersihan Data Demografi](https://github.com/deuscoco) *Coming Soon*
+- 🧹 [Demographic Data Cleaning](https://github.com/deuscoco) *Coming Soon*
 
-**🎨 Ciri Khas:**
-- Kode dengan komentar bahasa Indonesia
-- Dokumentasi dengan filosofi lokal
-- Analisis kontekstual untuk data Indonesia
+**🎨 Distinctive Traits:**
+- Code with Indonesian-language comments
+- Documentation with local philosophy
+- Contextual analysis for Indonesian data
 
 </td>
 <td width="50%">
 
-#### **📝 Blog & Artikel**
-`Status: Aktif Berkala`  
-*Artikel mendalam tentang data dengan pendekatan Indonesia*
+#### **📝 Blog & Articles**
+`Status: Active, Regularly Updated`  
+*In-depth articles on data with an Indonesian approach*
 
-**✍️ Blog Medium:**
-- 🔗 [Medium - Cerita Data Indonesia](https://medium.com/@amadeusrizz)
+**✍️ Medium Blog:**
+- 🔗 [Medium - Indonesian Data Stories](https://medium.com/@amadeusrizz)
 
-**📖 Topik Artikel Unggulan:**
-- 🎨 **Visualisasi dengan Motif Tradisional**  
-  *"Mengubah data menjadi karya seni dengan inspirasi batik dan tenun Nusantara"*
+**📖 Featured Article Topics:**
+- 🎨 **Visualization with Traditional Motifs**  
+  *"Turning data into art inspired by batik and Nusantara weaving"*
   
-- 🌍 **Analisis Data Demografi Indonesia**  
-  *"Memahami pola kependudukan dengan kearifan lokal dan konteks budaya"*
+- 🌍 **Indonesian Demographic Data Analysis**  
+  *"Understanding population patterns with local wisdom and cultural context"*
   
-- 🤝 **Kolaborasi Data Gotong Royong**  
-  *"Strategi teamwork ala Indonesia dalam proyek data analytics"*
+- 🤝 **Gotong Royong Data Collaboration**  
+  *"Indonesian-style teamwork strategies in data analytics projects"*
   
-- 🧹 **Data Cleaning ala Nusantara**  
-  *"Teknik pembersihan data yang menghormati karakteristik data Indonesia"*
+- 🧹 **Nusantara-Style Data Cleaning**  
+  *"Data cleaning techniques that respect the characteristics of Indonesian data"*
 
-**🏮 Filosofi Penulisan:**
-*"Menulis seperti membatik - setiap goresan punya makna, setiap paragraf bercerita"*
+**🏮 Writing Philosophy:**
+*"Writing is like making batik - every stroke has meaning, every paragraph tells a story"*
 
 </td>
 </tr>
@@ -189,11 +189,11 @@ Status  : 🌱 Berkembang seperti padi
 
 ---
 
-## 📱 **PORTOFOLIO APLIKASI MOBILE**
+## 📱 **MOBILE APP PORTFOLIO**
 
 ### **🚀 Expo Go Projects**
 
-> ***"Mengubah ide menjadi aplikasi yang dapat digunakan secara nyata melalui teknologi mobile modern."***
+> ***"Turning ideas into apps that can be used in real life through modern mobile technology."***
 
 <table>
 <tr>
@@ -205,18 +205,18 @@ Status  : 🌱 Berkembang seperti padi
 `Platform: Android & iOS`
 `Framework: React Native + Expo`
 
-Aplikasi pengingat aktivitas harian yang dirancang untuk membantu pengguna mengatur jadwal, mencatat tugas penting, dan meningkatkan produktivitas sehari-hari melalui antarmuka yang sederhana dan mudah digunakan.
+A daily activity reminder app designed to help users manage schedules, note important tasks, and increase daily productivity through a simple and easy-to-use interface.
 
-**✨ Fitur Utama**
+**✨ Key Features**
 
-* ➕ Menambahkan pengingat harian
-* 📝 Mengelola daftar aktivitas
-* ⏰ Pengingat tugas penting
-* ✅ Menandai tugas selesai
-* 💾 Penyimpanan data lokal
-* 📱 Antarmuka responsif dan ringan
+* ➕ Add daily reminders
+* 📝 Manage activity lists
+* ⏰ Important task reminders
+* ✅ Mark tasks as complete
+* 💾 Local data storage
+* 📱 Responsive, lightweight interface
 
-**🛠️ Teknologi**
+**🛠️ Technology**
 
 * React Native
 * Expo Go
@@ -226,95 +226,95 @@ Aplikasi pengingat aktivitas harian yang dirancang untuk membantu pengguna menga
 </td>
 <td width="50%">
 
-#### **🔗 Akses Proyek**
+#### **🔗 Project Access**
 
-**📂 Repository GitHub**
+**📂 GitHub Repository**
 
 * 🔗 https://github.com/deuscoco/expogo
 
-**📱 Demo Expo Go**
+**📱 Expo Go Demo**
 
 * 🔗 exp://u.expo.dev/1f0b4cad-c72c-41c0-969c-5aeb0e761c15/group/96acb378-c315-4247-a1cb-12de4d518b3d
 
-**🎯 Tujuan Proyek**
+**🎯 Project Goals**
 
-* Mempelajari pengembangan aplikasi mobile cross-platform.
-* Implementasi state management dan local storage.
-* Membangun portofolio React Native yang siap dipresentasikan kepada recruiter maupun akademisi.
+* Learn cross-platform mobile app development.
+* Implement state management and local storage.
+* Build a React Native portfolio ready to present to recruiters and academics.
 
-> **💡 Filosofi Proyek:**
-> *"Produktivitas dimulai dari kebiasaan kecil yang dilakukan secara konsisten. Daily Reminder App hadir untuk membantu pengguna menjaga konsistensi aktivitas hariannya."*
+> **💡 Project Philosophy:**
+> *"Productivity starts with small habits done consistently. Daily Reminder App is here to help users maintain consistency in their daily activities."*
 
 </td>
 </tr>
 </table>
 
-### 📊 Ringkasan Proyek Mobile
+### 📊 Mobile Project Summary
 
-| Project               | Teknologi                      | Status    | Repository                         |
+| Project               | Technology                      | Status    | Repository                         |
 | --------------------- | ------------------------------ | --------- | ---------------------------------- |
-| 📅 Daily Reminder App | React Native, Expo, JavaScript | ✅ Selesai | https://github.com/deuscoco/expogo |
+| 📅 Daily Reminder App | React Native, Expo, JavaScript | ✅ Completed | https://github.com/deuscoco/expogo |
 
 ---
 
 
 ---
-## 📅 PERJALANAN BELAJAR 8 MINGGU
+## 📅 8-WEEK LEARNING JOURNEY
 
-### 🗺️ Peta Perjalanan Pembelajaran
-> *"Seperti seorang calon empu yang menjalani tahapan pembelajaran, dari magang hingga mahir."*
+### 🗺️ Learning Journey Map
+> *"Like an apprentice on the path to becoming a master craftsman, progressing from training to mastery."*
 
-| Minggu | Fokus Pembelajaran | Status | Repository | Filosofi Jawa |
+| Week | Learning Focus | Status | Repository | Javanese Philosophy |
 |------:|-------------------|--------|------------|---------------|
-| **Minggu 1** | **Orientasi & Persiapan Alat** | ✅ Selesai | [🔗 Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) | *Mangan ora mangan sing penting kumpul* — Belajar bersama komunitas |
-| **Minggu 2** | **Pengumpulan Data** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/data-collection-understanding) | *Nglumpukke kaya wohing wiji* — Mengumpulkan seperti memanen |
-| **Minggu 3** | **Pembersihan & Penyaringan Data** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-3-data-cleaning) | *Resik saka ngisor* — Membersihkan dari dasar |
-| **Minggu 4** | **Eksplorasi & Penemuan Pola** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-4) | *Mlaku-mlaku neng alas* — Menjelajah hutan data |
-| **Minggu 5** | **Analisis Mendalam dengan SQL** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-5) | *Nggoleki intine* — Mencari inti sari |
-| **Minggu 6** | **Visualisasi & Data Storytelling** |  🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-6) | *Nyritakake kanthi gambar* — Bercerita lewat visual |
-| **Minggu 7** | **Proyek Terintegrasi** | 🟢 Aktif |  [🔗 Lihat Repo](https://github.com/deuscoco/week-7) | *Gawe karya sak piece* — Membangun karya utuh |
-| **Minggu 8** | **Presentasi & Portofolio Akhir** | 🟢 Aktif | [🔗 Lihat Repo](https://github.com/deuscoco/week-8) | *Nampilake ing pasar* — Menampilkan ke publik |
+| **Week 1** | **Orientation & Tool Preparation** | ✅ Completed | [🔗 View Repo](https://github.com/deuscoco/week-1-junior-data-analyst) | *Mangan ora mangan sing penting kumpul* — Learning together as a community |
+| **Week 2** | **Data Collection** | 🟢 Active | [🔗 View Repo](https://github.com/deuscoco/data-collection-understanding) | *Nglumpukke kaya wohing wiji* — Gathering like a harvest |
+| **Week 3** | **Data Cleaning & Filtering** | 🟢 Active | [🔗 View Repo](https://github.com/deuscoco/week-3-data-cleaning) | *Resik saka ngisor* — Cleaning from the foundation |
+| **Week 4** | **Exploration & Pattern Discovery** | 🟢 Active | [🔗 View Repo](https://github.com/deuscoco/week-4) | *Mlaku-mlaku neng alas* — Exploring the data forest |
+| **Week 5** | **Deep Analysis with SQL** | 🟢 Active | [🔗 View Repo](https://github.com/deuscoco/week-5) | *Nggoleki intine* — Seeking the essence |
+| **Week 6** | **Visualization & Data Storytelling** |  🟢 Active | [🔗 View Repo](https://github.com/deuscoco/week-6) | *Nyritakake kanthi gambar* — Telling stories through visuals |
+| **Week 7** | **Integrated Project** | 🟢 Active |  [🔗 View Repo](https://github.com/deuscoco/week-7) | *Gawe karya sak piece* — Building a complete work |
+| **Week 8** | **Final Presentation & Portfolio** | 🟢 Active | [🔗 View Repo](https://github.com/deuscoco/week-8) | *Nampilake ing pasar* — Presenting to the public |
 
 
-### **📊 Progress dalam Bentuk Candi**
+### **📊 Progress in the Form of a Temple**
 ```
-          Minggu 8
+          Week 8
            [░░░░]
           /      \
-      Minggu 7   Minggu 6
+      Week 7    Week 6
       [░░░░]     [░░░░]
       /    \     /    \
-  Minggu 5   Minggu 4   Minggu 3
+  Week 5     Week 4     Week 3
   [░░░░]     [░░░░]     [██░░]
   /    \     /    \
-Minggu 1   Minggu 2
+Week 1     Week 2
 [██████]   [████░░]
 ```
 
 ---
 
-## 🎭 **POLA KOMPETENSI SEPERTI BATIK**
+## 🎭 **COMPETENCY PATTERN LIKE BATIK**
 
-### **📊 Peta Kemampuan Berlapis**
-> ***Setiap pola memiliki makna, setiap skill memiliki konteks penerapan***
+### **📊 Layered Skills Map**
+> ***Every pattern has meaning, every skill has a context of application***
 
-| **Bidang Keahlian** | **Tingkat Penguasaan** | **Ikon Tradisional** | **Deskripsi** |
+| **Area of Expertise** | **Proficiency Level** | **Traditional Icon** | **Description** |
 |-------------------|------------------------|---------------------|---------------|
-| **🪕 Bahasa Pemrograman** | | | |
-| Python | ★★★★☆ (80%) | 🐍 | *Fleksibel seperti bambu* |
-| SQL | ★★★★★ (95%) | 🗄️ | *Kuat seperti candi* |
-| R | ★★☆☆☆ (40%) | 📈 | *Sedang dipelajari* |
-| **📜 Analisis Data** | | | |
-| Pembersihan Data | ★★★★☆ (85%) | 🧹 | *Rapi seperti ukiran* |
-| Eksplorasi Data | ★★★☆☆ (70%) | 🔍 | *Teliti seperti pengrajin* |
-| Statistik Dasar | ★★★☆☆ (65%) | 📊 | *Presisi seperti timbangan tradisional* |
-| **🎨 Visualisasi** | | | |
-| Matplotlib | ★★★☆☆ (60%) | 🐍 | *Customizable seperti wayang* |
-| **🛠️ Alat Bantu** | | | |
-| Git | ★★★★☆ (85%) | 🌳 | *Sejarah seperti prasasti* |
-| VS Code | ★★★★☆ (80%) | ✍️ | *Pena modern* |
+| **🪕 Programming Languages** | | | |
+| Python | ★★★★☆ (80%) | 🐍 | *Flexible like bamboo* |
+| SQL | ★★★★★ (95%) | 🗄️ | *Strong like a temple* |
+| R | ★★☆☆☆ (40%) | 📈 | *Currently being learned* |
+| **📜 Data Analysis** | | | |
+| Data Cleaning | ★★★★☆ (85%) | 🧹 | *Tidy like a carving* |
+| Data Exploration | ★★★☆☆ (70%) | 🔍 | *Careful like a craftsman* |
+| Basic Statistics | ★★★☆☆ (65%) | 📊 | *Precise like a traditional scale* |
+| **🎨 Visualization** | | | |
+| Matplotlib | ★★★☆☆ (60%) | 🐍 | *Customizable like wayang* |
+| **🛠️ Tools** | | | |
+| Git | ★★★★☆ (85%) | 🌳 | *Historical like an inscription* |
+| VS Code | ★★★★☆ (80%) | ✍️ | *A modern pen* |
 
-### **📈 Visualisasi Kemampuan (Bentuk Gunungan Wayang)**
+### **📈 Skill Visualization (Gunungan Wayang Shape)**
 ```
        SQL Mastery
          ██████████ 95%
@@ -328,43 +328,43 @@ Visualization        Business Insight
 
 ---
 
-## 🗂️ **PROYEK: CERITA DARI DATA LOKAL**
+## 🗂️ **PROJECT: STORIES FROM LOCAL DATA**
 
-### **🎯 Proyek Aktif dengan Sentuhan Indonesia**
+### **🎯 Active Projects with an Indonesian Touch**
 <table>
 <tr>
 <td width="50%">
 
-#### **📦 Proyek: Pengumpulan Data UMKM Digital**
-`Status: Sedang Berjalan`  
+#### **📦 Project: Digital MSME Data Collection**
+`Status: In Progress`  
 `Progress: ████████░░ 80%`  
-*Mengumpulkan data UMKM Indonesia untuk analisis pertumbuhan digital*  
+*Collecting data on Indonesian MSMEs to analyze digital growth*  
 
-🔗 [Lihat Repository](https://github.com/deuscoco/week-1-junior-data-analyst)
+🔗 [View Repository](https://github.com/deuscoco/week-1-junior-data-analyst)
 
-> **🪶 Filosofi Proyek:** *"Seperti mengumpulkan rempah-rempah dari berbagai pulau, data dikumpulkan dari berbagai sumber untuk menciptakan insight yang kaya rasa."*
+> **🪶 Project Philosophy:** *"Like gathering spices from different islands, data is collected from various sources to create rich, flavorful insight."*
 
-**Fitur Khas Indonesia:**
-- Data multi-bahasa (Indonesia + daerah)
-- Konteks budaya lokal
-- Metrik relevan untuk ekonomi Indonesia
+**Distinctly Indonesian Features:**
+- Multilingual data (Indonesian + regional languages)
+- Local cultural context
+- Metrics relevant to the Indonesian economy
 
 </td>
 <td width="50%">
 
-#### **🧼 Proyek: Pembersihan Data Demografi**
-`Status: Persiapan`  
+#### **🧼 Project: Demographic Data Cleaning**
+`Status: In Preparation`  
 `Progress: ██░░░░░░░░ 20%`  
-*Toolkit pembersihan data khusus karakteristik Indonesia*  
+*A data-cleaning toolkit tailored to Indonesian data characteristics*  
 
-⏳ *Repository segera hadir*
+⏳ *Repository coming soon*
 
-> **🎭 Pendekatan Kultural:** *"Membersihkan data seperti menyaring tepung untuk membuat kue tradisional - hati-hati, teliti, dan menghormati bahan baku."*
+> **🎭 Cultural Approach:** *"Cleaning data like sifting flour for a traditional cake - careful, thorough, and respectful of the raw material."*
 
-**Inovasi Lokal:**
-- Handling nama-nama khas Indonesia
-- Penanganan format tanggal variatif
-- Adaptasi untuk data semi-terstruktur khas lokal
+**Local Innovations:**
+- Handling distinctly Indonesian names
+- Managing varied date formats
+- Adaptation for locally semi-structured data
 
 </td>
 </tr>
@@ -372,30 +372,30 @@ Visualization        Business Insight
 
 ---
 
-## 🖼️ **GALERI VISUAL: DATA DALAM SENI INDONESIA**
+## 🖼️ **VISUAL GALLERY: DATA IN INDONESIAN ART**
 
-### **🎭 Visualisasi dari Assets Repository**
-> ***"Data yang divisualisasikan dengan indah seperti batik - setiap pola memiliki cerita."***
+### **🎭 Visuals from the Assets Repository**
+> ***"Data visualized beautifully like batik - every pattern tells a story."***
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
 
-**📊 Pola Alur Kerja Analisis**  
+**📊 Analysis Workflow Pattern**  
 ![Data Workflow](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/cc2.png)  
-*"Seperti alur sungai di Nusantara, data mengalir dari sumber hingga insight"*
+*"Like a river flowing through the Archipelago, data flows from source to insight"*
 
-**🎨 Motif Terinspirasi:** Aliran sungai tradisional dalam relief candi
+**🎨 Inspired Motif:** Traditional river flows depicted in temple reliefs
 
 </td>
 <td align="center" width="50%">
 
-**📈 Dashboard dengan Sentuhan Lokal**  
+**📈 Dashboard with a Local Touch**  
 ![Dashboard Example](https://raw.githubusercontent.com/deuscoco/deuscoco/main/assets/cc.png)  
-*"Dashboard seperti peta kuno - menunjukkan jalan menuju harta karun insight"*
+*"A dashboard like an ancient map - pointing the way toward treasures of insight"*
 
-**🎨 Motif Terinspirasi:** Peta kuno Nusantara dan kompas tradisional
+**🎨 Inspired Motif:** Ancient Nusantara maps and traditional compasses
 
 </td>
 </tr>
@@ -404,10 +404,10 @@ Visualization        Business Insight
 
 ---
 
-## 🛠️ **PERKAKAS DIGITAL: ALAT MODERN, NILAI TRADISI**
+## 🛠️ **DIGITAL TOOLKIT: MODERN TOOLS, TRADITIONAL VALUES**
 
-### **🔧 Perangkat Utama dengan Filosofi Lokal**
-> ***"Memilih alat seperti memilih bahan baku kerajinan - harus tepat guna dan bermakna."***
+### **🔧 Primary Tools with Local Philosophy**
+> ***"Choosing tools is like choosing materials for a craft - it must be purposeful and meaningful."***
 
 <table>
 <tr>
@@ -416,9 +416,9 @@ Visualization        Business Insight
 #### **🐍 Python**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=F5E8C7"/>
 
-**Filosofi:** *"Fleksibel seperti rotan, kuat seperti bambu"*  
-**Analog Tradisional:** Pisau serbaguna tradisional  
-**Kelebihan:** Multi-guna, komunitas kuat, seperti gotong royong digital
+**Philosophy:** *"Flexible like rattan, strong like bamboo"*  
+**Traditional Analogy:** A traditional multipurpose knife  
+**Strengths:** Versatile, strong community, like digital gotong royong
 
 </td>
 <td width="33%">
@@ -426,9 +426,9 @@ Visualization        Business Insight
 #### **🗄️ MySQL**
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F5E8C7"/>
 
-**Filosofi:** *"Terstruktur seperti candi, terorganisir seperti lumbung"*  
-**Analog Tradisional:** Sistem lumbung padi tradisional  
-**Kelebihan:** Reliabel, terstruktur, seperti arsitektur tradisional
+**Philosophy:** *"Structured like a temple, organized like a granary"*  
+**Traditional Analogy:** Traditional rice granary system  
+**Strengths:** Reliable, structured, like traditional architecture
 
 </td>
 <td width="33%">
@@ -436,9 +436,9 @@ Visualization        Business Insight
 #### **🌳 Git**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F5E8C7"/>
 
-**Filosofi:** *"Mencatat sejarah seperti prasasti"*  
-**Analog Tradisional:** Prasasti dan naskah kuno  
-**Kelebihan:** Version control, kolaborasi, seperti kerja tim tradisional
+**Philosophy:** *"Recording history like an inscription"*  
+**Traditional Analogy:** Ancient inscriptions and manuscripts  
+**Strengths:** Version control, collaboration, like traditional teamwork
 
 </td>
 </tr>
@@ -446,14 +446,14 @@ Visualization        Business Insight
 
 ---
 
-## 📈 **PAMOR DIGITAL: STATISTIK & PRESTASI**
+## 📈 **DIGITAL PAMOR: STATS & ACHIEVEMENTS**
 
-### **📊 Jejak Digital di GitHub**
-> ***"Seperti jejak kaki di pasir pantai, setiap commit adalah langkah dalam perjalanan belajar."***
+### **📊 Digital Footprint on GitHub**
+> ***"Like footprints in the sand on a beach, every commit is a step in the learning journey."***
 
 <div align="center">
 
-<!-- GitHub Stats dengan tema cream dan coklat -->
+<!-- GitHub Stats with cream and brown theme -->
 <a href="https://github.com/deuscoco">
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=deuscoco&show_icons=true&theme=default&bg_color=F5E8C7&title_color=8B4513&icon_color=795548&text_color=5D4037&hide_border=true&border_radius=15&include_all_commits=true" />
 </a>
@@ -465,29 +465,29 @@ Visualization        Business Insight
 
 ---
 
-## 🏆 **PENGHARGAAN DIGITAL**
+## 🏆 **DIGITAL AWARDS**
 
-### **🎖️ Lencana Keahlian Berbudaya**
+### **🎖️ Cultural Skill Badges**
 <div align="center" style="background: linear-gradient(to right, #F5E8C7, #E6D2A8); padding: 15px; border-radius: 10px; border: 2px solid #8B4513;">
 
-**🪶 Lencana Keahlian Utama**
+**🪶 Core Skill Badges**
 ```
 ┌─────────────────────────────────────────────┐
-│  🔍 PENGHAYAT DATA (Data Detective)        │
+│  🔍 DATA DETECTIVE                          │
 │  ★★★★★                                     │
-│  Mampu menemukan pola dalam kekacauan data │
+│  Able to find patterns within data chaos    │
 └─────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────┐
-│  🎨 PELUKIS INSIGHT (Visual Storyteller)   │
+│  🎨 VISUAL STORYTELLER                      │
 │  ★★★★☆                                     │
-│  Mengubah angka menjadi cerita visual       │
+│  Turns numbers into visual stories          │
 └─────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────┐
-│  🤝 GOTONG ROYONG DIGITAL (Collaborator)   │
+│  🤝 DIGITAL COLLABORATOR                    │
 │  ★★★★★                                     │
-│  Kolaborasi dalam tim data                  │
+│  Collaboration within a data team           │
 └─────────────────────────────────────────────┘
 ```
 
@@ -495,33 +495,34 @@ Visualization        Business Insight
 
 ---
 
-## 💭 **WARUNG DATA: TEMPAT BERBAGI INSIGHT**
+## 💭 **DATA WARUNG: A PLACE TO SHARE INSIGHT**
 
-### **🪶 Pepatah Data Nusantara**
-> ***"Data tanpa konteks bagai keris tanpa pamor, hanya besi biasa. Insight tanpa aksi bagai peta tanpa perjalanan, hanya gambar di kertas."***
+### **🪶 Nusantara Data Proverbs**
+> ***"Data without context is like a keris without pamor, just plain metal. Insight without action is like a map without a journey, just a picture on paper."***
 
 <details>
-<summary>🔄 Buka gulungan kebijaksanaan data</summary>
+<summary>🔄 Open the scroll of data wisdom</summary>
 
-#### **Kearifan Data Lokal**
-1. **Data di Indonesia unik** seperti biodiversitas kita - beragam, kompleks, dan penuh kejutan
-2. **Analisis kontekstual** lebih penting daripada teknik canggih - pahami dulu budayanya
-3. **Visualisasi untuk orang Indonesia** harus mempertimbangkan preferensi warna dan pola lokal
-4. **Kolaborasi ala gotong royong** menghasilkan insight yang lebih kaya daripada kerja solo
+#### **Local Data Wisdom**
+1. **Data in Indonesia is unique**, like our biodiversity - diverse, complex, and full of surprises
+2. **Contextual analysis** matters more than fancy techniques - understand the culture first
+3. **Visualization for Indonesians** must consider local color and pattern preferences
+4. **Gotong-royong style collaboration** produces richer insight than working solo
 
-#### **Fakta Data dengan Rasa Indonesia**
-- **Data demografi** Indonesia seperti rendang - kompleks, berlapis, dan penuh rempah
-- **Analisis tren** seperti prediksi cuaca tradisional - membaca tanda-tanda alam data
-- **Machine learning** seperti pembuatan tempe - butuh proses dan kesabaran
-- **Data cleaning** seperti mencuci beras - menghilangkan kotoran, mempertahankan nutrisi
+#### **Data Facts with an Indonesian Flavor**
+- **Indonesian demographic data** is like rendang - complex, layered, and full of spice
+- **Trend analysis** is like traditional weather forecasting - reading the signs within the data
+- **Machine learning** is like making tempeh - it needs process and patience
+- **Data cleaning** is like washing rice - removing the dirt while keeping the nutrients
+
 </details>
 
 ---
 
-## 🌐 **JARINGAN SILATURAHMI DIGITAL**
+## 🌐 **DIGITAL SILATURAHMI NETWORK**
 
-### **🤝 Menjalin Hubungan di Dunia Data**
-> ***"Seperti pertemuan di pasar tradisional, mari bertukar cerita dan insight."***
+### **🤝 Building Connections in the World of Data**
+> ***"Like meeting at a traditional market, let's exchange stories and insight."***
 
 <div align="center">
 
@@ -531,30 +532,30 @@ Visualization        Business Insight
 
 [![Instagram](https://img.shields.io/badge/📷_Instagram-@amaadeusdaniel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://instagram.com/amaadeusdaniel)
 
-*Cerita visual sehari-hari*
+*Everyday visual stories*
 
 </td>
 <td align="center">
 
 [![TikTok](https://img.shields.io/badge/🎵_TikTok-@traarizz-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://tiktok.com/@traarizz)
 
-*Edukasi data singkat*
+*Short-form data education*
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-[![Medium](https://img.shields.io/badge/✍️_Medium-Cerita_Data-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://medium.com/@amadeusrizz)
+[![Medium](https://img.shields.io/badge/✍️_Medium-Data_Stories-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://medium.com/@amadeusrizz)
 
-*Artikel mendalam*
+*In-depth articles*
 
 </td>
 <td align="center">
 
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Proyek_Data-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://github.com/deuscoco)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Data_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=F5E8C7&border=2px_solid_8B4513)](https://github.com/deuscoco)
 
-*Kode dan proyek*
+*Code and projects*
 
 </td>
 </tr>
@@ -568,12 +569,13 @@ Visualization        Business Insight
 
 <div style="background: linear-gradient(to bottom, #E6D2A8, #D4BC8A); padding: 25px; border-radius: 20px 20px 0 0; border-top: 5px solid #8B4513;">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=e6d2a8,d4bc8a&height=80&section=footer&text=ꦢꦠ꦳ꦴ • ꦧꦸꦢꦪ • ꦩꦱꦴꦣꦺꦥꦤ꧀&fontSize=26&fontColor=5d4037&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=e6d2a8,d4bc8a&height=80&section=footer&text=ꦢꦠ꦳ꦴ • ꦧꦸꦢꦪ • ꦩꦱꦴꦣꦺꦥꦤ꧀&fontSize=26&fontColor=5d4037&animation=twinkling" width="100%"/>
 
 <div style="margin-top: 20px; color: #5D4037; font-family: 'Javanese Text', serif;">
-  <b>ꦱꦼꦏꦼꦕꦶꦭ꧀ꦲꦥꦮꦺꦴꦤ꧀ꦢꦠ꦳ꦴꦔꦒꦼꦭꦂꦲꦶꦤ꧀ꦱꦲꦾꦠ꧀ꦪꦁꦧꦼꦂꦩꦏ꧀ꦤ</b>
+  <b>May data bring benefit and good fortune to all</b>
 </div>
 
 </div>
+
 
 </footer>
